@@ -18,7 +18,7 @@ output_path = "./output.txt" # The file that will contain the working proxies
 proxy = Proxy(url, input_path, output_path)
 ```
 
-* Call the test method
+* Call the "get_valid_proxies" method
 ```python3
 proxy.get_valid_proxies()
 ```
