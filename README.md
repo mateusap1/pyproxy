@@ -2,7 +2,7 @@
 A really simple module to help me filter working proxies
 
 # Usage
-If you want to integrate pyproxy with an existing project, you can  follow this simple steps:
+If you want to integrate pyproxy with an existing project, you can, after cloning this repository, follow this simple steps:
 
 * Import the Proxy module
 ```python3
